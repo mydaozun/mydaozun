@@ -1,6 +1,7 @@
 <div align="center">
-![GitHub 统计](https://github-immortality.vercel.app/api?username=mydaozun)
+![GitHub 统计]( https://github-immortality.vercel.app/api?username=mydaozun)
 </div>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F70C0C&center=true&vCenter=true&width=435&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84github;%E5%96%9C%E6%AC%A2%E5%B0%B1%E7%82%B9%E7%82%B9%E5%85%B3%E6%B3%A8)](https://git.io/typing-svg)
 
