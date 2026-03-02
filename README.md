@@ -1,5 +1,5 @@
 <div align="center">
-![GitHub 统计]( https://github-immortality.vercel.app/api?username=mydaozun)
+  <img src=" https://github-immortality.vercel.app/api?username=mydaozun " alt="GitHub 统计" />
 </div>
 
 
